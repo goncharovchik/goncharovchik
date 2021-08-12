@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm goncharovchik
+# 👋 Hi there, I'm Aleksey Goncharov aka goncharovchik
 
 ### 🎓 I’m currently learning everything.
 
