@@ -2,9 +2,11 @@
 
 **Backend/Fullstack Developer** | 4+ years experience | Omsk, Russia
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goncharovchik)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncharov.contact@gmail.com)
-[![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/goncharovchik)
+<div align="center">
+  <a href="https://t.me/goncharovchik"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:goncharov.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vk.com/goncharovchik"><img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" /></a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Aleksey!;Backend+%7C+Fullstack+Developer;Passionate+about+clean+code+and+architecture&center=true&width=500&height=50">
@@ -111,8 +113,8 @@ I've been programming since I was 13 years old and have been working in web deve
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goncharovchik&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncharovchik&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goncharovchik&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncharovchik&layout=compact&theme=radical" alt="Top Languages" height="200" />
 </div>
 
 <div align="center">
