@@ -63,7 +63,7 @@
 I've been programming since I was 13 years old and have been working in web development for over 5 years. I've developed both commercial and educational projects. I have experience in independent architectural design of applications, infrastructure setup, and teaching.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncharovchik&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=goncharovchik&theme=radical" alt="GitHub Streak" />
 </div>
 
 **Key Achievements:**
