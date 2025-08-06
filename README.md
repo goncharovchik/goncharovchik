@@ -1,58 +1,158 @@
-# 👋 Hi there, I'm Aleksey Goncharov aka goncharovchik
+# 👨‍💻 Aleksey Goncharov (goncharovchik)
 
-### 🎓 I’m currently learning everything.
+**Backend/Fullstack Developer** | 4+ years experience | Omsk, Russia
 
-## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goncharovchik)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goncharovchik)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncharov.contact@gmail.com)
+[![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/goncharovchik)
 
-[<img alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/vk.svg" />][VK]
-&nbsp;
-[<img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/telegram.svg" />][Telegram]
-&nbsp;
-[<img alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/gmail.svg" />][Mail]
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Aleksey!;Backend+%7C+Fullstack+Developer;Passionate+about+clean+code+and+architecture&center=true&width=500&height=50">
+</div>
 
-## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /> Visual Studio Code
+---
 
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" /> Visual Studio
+## 🛠️ Technical Skills
 
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" /> IntelliJ IDEA
+<div align="center">
+  <h3>🛠️ Languages and Tools</h3>
+  <br>
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+  <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+  <img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+  <img alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
+  <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+  <img alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+</div>
 
-<img align="left" alt="Eclipse IDE" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" /> Eclipse IDE
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML 5
+### **Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS
+### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript
+---
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React JS
+## 🚀 About Me
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
+I've been programming since I was 13 years old and have been working in web development for over 5 years. I've developed both commercial and educational projects. I have experience in independent architectural design of applications, infrastructure setup, and teaching.
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncharovchik&theme=radical" alt="GitHub Streak" />
+</div>
 
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> C Sharp
+**Key Achievements:**
+- 🎯 Increased corporate website conversion by 25%
+- 🤖 Created an ecosystem of 5+ integrated bots with a user base of 7,000+
+- 🏆 Participated in hackathons and intensive courses (CodingGarden by 7bits)
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> Java
+---
 
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> Kotlin
+## 💼 Work Experience
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> PHP
+### **Fullstack Developer** | Gavrila Airlines
+*May 2024 — Present*
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
+- Developed corporate website from scratch (increased conversion by 25%)
+- Integrated backend and frontend components
+- Maintained stable server operations
+- **Technologies:** PHP, JavaScript, Node.js, Redis, PostgreSQL, Docker
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL
+### **Founder / Developer** | MineBots
+*July 2021 — September 2024*
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> MongoDB
+- Created an ecosystem of 5+ integrated bots with a total user base of 7,000+
+- Set up CI/CD pipeline for automatic deployment
+- Project management, architecture, deployment, and maintenance
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git
+---
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub
+## 🎯 Development Goals
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Console
+✅ **What I want to achieve:**
+- Participate in projects with high architectural requirements
+- Join a team where I can share experience and grow
+- Gain experience with TypeScript, NestJS, CI/CD, and microservices
 
-[VK]: https://vk.com/goncharovchik
-[Telegram]: https://t.me/goncharovchik
-[Mail]: mailto:goncharov.contact@gmail.com
+---
+
+## 📚 Education
+
+**OMAVIAT** | IT, Information Security of Automated Systems
+*2026*
+
+**Languages:** Russian (native), English (B1)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goncharovchik&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncharovchik&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goncharovchik&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🤝 Soft Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Communication & Teamwork</b><br>
+        Leadership qualities, mentoring skills
+      </td>
+      <td align="center">
+        <b>Self-organization & Management</b><br>
+        Time management, project planning
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Learning & Development</b><br>
+        Fast learning ability, systems thinking
+      </td>
+      <td align="center">
+        <b>Stress Resistance</b><br>
+        Working under uncertainty, multitasking
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=goncharovchik&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+*Responsible, communicative, quick to learn new technologies, and actively seeking growth within the team.*
